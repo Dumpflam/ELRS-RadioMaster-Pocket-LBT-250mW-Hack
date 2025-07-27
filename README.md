@@ -1,1 +1,1 @@
-This is an ELRS firmware for the RadioMaster Pocket that allows 250mw power output while still keeping LBT functionality. Great for when you have an LBT reciever, but you are not in EU so you can use the full 250mw while still keeping LBT.
+This is an ELRS firmware for the RadioMaster Pocket that allows 250mw power output while still keeping LBT functionality. Great for when you have an LBT reciever, but you are not in EU so you can use the full 250mW while still keeping LBT.
